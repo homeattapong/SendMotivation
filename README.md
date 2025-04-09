@@ -1,2 +1,2 @@
 # SendMotivation
-ส่งกำลังใจ
+ส่งกำลังใจ Ver 1
